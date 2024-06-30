@@ -1,0 +1,18 @@
+.home-container {
+  background-color: #152850;
+  min-height: 100vh;
+}
+.home-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.home-heading {
+  font-size: 70px;
+  color: #ffffff;
+}
+.digital-card{
+  width: 800px;
+}
